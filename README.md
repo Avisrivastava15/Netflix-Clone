@@ -34,15 +34,15 @@ Follow these steps to run the project locally and use Tailwind CLI:
    ```bash
    npm install -D tailwindcss
 
-2. # Create CSS input file
+2. **Create CSS input file**
    ```bash
    @import "tailwindcss";
 
-4. # Terminal
+3. **Terminal**
    ```bash
    npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
-6. # Add output.css in index.html
+4. **Add output.css in index.html**
    ```bash
    <link href="./src/output.css" rel="stylesheet">
 
