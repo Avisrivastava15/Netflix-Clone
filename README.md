@@ -47,3 +47,7 @@ Follow these steps to run the project locally and use Tailwind CLI:
    <link href="./src/output.css" rel="stylesheet">
 
 For any queries refer to https://tailwindcss.com/docs/installation/tailwind-cli
+
+# Note:
+Chrome Safe Browsing may show a false positive warning because this project mimics Netflix’s UI for learning purposes.
+The site works perfectly in Incognito mode or browsers like Brave/Edge/Firefox.
